@@ -18,4 +18,4 @@
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana%C3%AFs-t-286271239/)
-[![CV](https://img.shields.io/badge/CurriculumVitae-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://ppddev.fr/)
+[![CV](https://img.shields.io/badge/CurriculumVitae-blueviolet?style=for-the-badge&logo=&logoColor=white)](https://ppddev.fr/)
