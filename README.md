@@ -2,11 +2,10 @@
 
 ### I'm Ana, I'm web developer.
 
-## Skills
-![HTML](https://img.shields.io/badge/-HTML-2F4F4F?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-2F4F4F?style=for-the-badge&logo=css3)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-2F4F4F?style=for-the-badge&logo=javascript)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-2F4F4F?style=for-the-badge&logo=typescript)
+## Skills 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+</div>
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana%C3%AFs-t-286271239/)
