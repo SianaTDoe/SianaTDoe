@@ -19,7 +19,7 @@
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana%C3%AFs-t-286271239/)
 &nbsp;
-[![CV](https://img.shields.io/badge/CurriculumVitae-blueviolet?style=for-the-badge&logo=&logoColor=white)](https://ppddev.fr/)
+[![CV](https://img.shields.io/badge/Curriculum·Vitae-blueviolet?style=for-the-badge&logo=&logoColor=white)](https://ppddev.fr/)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SianaTDoe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
