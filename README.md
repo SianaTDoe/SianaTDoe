@@ -26,7 +26,7 @@
 ![CleanCode](https://img.shields.io/badge/Clean-Coding-blue)
 ![SoftwareCraftsmanship](https://img.shields.io/badge/Software-Craftsmanship%20-blue)
 
-#### Versionning & dependencies management
+#### Versionning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
