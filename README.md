@@ -1,6 +1,7 @@
 ## Hi !
 
-### I'm Ana, I'm Web Developer & Scrum Master. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anais-ppe)
+### I'm Ana, I'm Web Developer & Scrum Master. 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anais-ppe)
 
 ## Skills 
 
