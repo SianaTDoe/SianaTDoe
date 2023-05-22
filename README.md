@@ -1,6 +1,6 @@
 ## Hi !
 
-### I'm Ana, I'm web developer.
+### I'm Ana, I'm Web Developer & Scrum Master.
 
 ## Skills 
 <div>
